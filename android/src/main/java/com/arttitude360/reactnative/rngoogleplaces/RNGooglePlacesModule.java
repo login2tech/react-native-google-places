@@ -8,8 +8,10 @@ import android.text.TextUtils;
 import android.util.Log;
 import android.Manifest.permission;
 import android.content.pm.PackageManager;
-import android.support.annotation.Nullable;
-import android.support.annotation.RequiresPermission;
+// import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
+// import android.support.annotation.RequiresPermission;
+import androidx.annotation.RequiresPermission;
 import android.support.v4.content.ContextCompat;
 import 	android.support.v4.app.ActivityCompat;
 
